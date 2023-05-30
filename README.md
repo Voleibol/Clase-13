@@ -39,3 +39,5 @@ MEDIDAS CANCHA
 El campo de juego es un rectángulo de 18 x 9 m, rodeado por una zona libre de un mínimo de 3 m de ancho en todos sus lados
 Para las Competencias Mundiales y oficiales de la FIVB, la zona libre debe medir 5 m desde las líneas laterales y 6.5 m desde las líneas de fondo. El espacio de juego libre debe medir un mínimo de 12.5 m de altura a partir de la superficie de juego
 
+Nuevo enfoque: tema principal "la auténtica celebración en los puntos de vóleibol"
+
