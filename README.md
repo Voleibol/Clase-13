@@ -14,9 +14,8 @@ Se originó en Estados Unidos en 1895 diseñado para gimnasios o salas de ejerci
 
 Reglas principales
 Un equipo puede tocar la pelota tres veces en su lado de la red.
-
-
-
+Los jugadores deben rotar en sentido de las manecillas del reloj cada vez que su equipo recupera el servicio de oposición. 
+Sólo los tres jugadores cercanos a la red pueden realizar bloqueo y remate. 
 
 TIPOS DE GOLPE
 
