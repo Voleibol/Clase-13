@@ -30,6 +30,9 @@ Bloqueo: No es un golpe como tal, pero se utiliza como método para evitar el re
 
 TIPOS DE SAQUE
 
+Saque de abajo: De tipo principiante, no se utiliza a nivel profesional. Se golpea con la ,ano dominante, colocando el pie contrario un paso por delante. El golpe se puede realizar con la palma o puño
+
+Saque con salto: El salto más dificil, comunmente utilizado a nivel profesional. La pelota se levanta más de lo normal y se hace también mas adelante. Intenta hacer un punto directo.
 
 
 MEDIDAS CANCHA
