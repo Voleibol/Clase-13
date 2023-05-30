@@ -13,9 +13,9 @@ Lateral, bajo una foto:
 Se originó en Estados Unidos en 1895 diseñado para gimnasios o salas de ejercicios,o al aire libre. Podía participar un número ilimitado de jugadores, con el objetivo de mantener la pelota en movimiento sobre una red alta, de un lado a otro. 
 
 Reglas principales
-Un equipo puede tocar la pelota tres veces en su lado de la red.
-Los jugadores deben rotar en sentido de las manecillas del reloj cada vez que su equipo recupera el servicio de oposición. 
-Sólo los tres jugadores cercanos a la red pueden realizar bloqueo y remate. 
+1. Un equipo puede tocar la pelota tres veces en su lado de la red.
+2. Los jugadores deben rotar en sentido de las manecillas del reloj cada vez que su equipo recupera el servicio de oposición. 
+3. Sólo los tres jugadores cercanos a la red pueden realizar bloqueo y remate. 
 
 TIPOS DE GOLPE
 
@@ -30,4 +30,9 @@ Bloqueo: No es un golpe como tal, pero se utiliza como método para evitar el re
 
 TIPOS DE SAQUE
 
+
+
+MEDIDAS CANCHA
+El campo de juego es un rectángulo de 18 x 9 m, rodeado por una zona libre de un mínimo de 3 m de ancho en todos sus lados
+Para las Competencias Mundiales y oficiales de la FIVB, la zona libre debe medir 5 m desde las líneas laterales y 6.5 m desde las líneas de fondo. El espacio de juego libre debe medir un mínimo de 12.5 m de altura a partir de la superficie de juego
 
