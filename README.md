@@ -41,3 +41,6 @@ Para las Competencias Mundiales y oficiales de la FIVB, la zona libre debe medir
 
 Nuevo enfoque: tema principal "la auténtica celebración en los puntos de vóleibol"
 
+
+Adjuntamos archivo pdf con el esquema/sketch para el orden de la infografía
+[Esquema-Volley copia.pdf](https://github.com/Voleibol/Clase-13/files/11608062/Esquema-Volley.copia.pdf)
