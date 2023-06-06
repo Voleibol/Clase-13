@@ -1,9 +1,13 @@
 # Clase-13
+
+![Esquema-Volley](https://github.com/Voleibol/Clase-13/assets/127217229/8efdf38e-c132-410a-b8ab-b01e4a722844)
+
 En base al diseño grupal, se establecen los siguientes textos: 
 
 Título en grande: VOLEIBOL
 
-Más abajo: ¿Qué es el voleibol? 
+Más abajo: ¿Qué es el voleibol?
+
 
 El voleibol es un deporte que se juega con una pelota, en dos equipos. Cuenta con 6 jugadores por lado, que se enfrentan en un área de juego separada por una red al centro. El objetivo es enviar la pelota por el aire, por sobre la red al otro lado de la cancha, intentando que caiga al suelo del oponente. 
 El vóleibol, tanto masculino como femenino, se convirtió en un deporte Olímpico oficial en los Juegos Olímpicos de Tokio 1964 y actualmente, la federación internacional de voleibol, con 220 federaciones nacionales afiliadas, es la federación deportiva internacional más grande del mundo.
